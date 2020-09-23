@@ -1,0 +1,6 @@
+framework module Pods_Zorra {
+  umbrella header "Pods-Zorra-umbrella.h"
+
+  export *
+  module * { export * }
+}
